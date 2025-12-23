@@ -102,7 +102,9 @@ HAVING COUNT(b.booking_id) > 2;
 --
 ## ALL Link ->
 GitHub Repo: https://github.com/MTR-BRAND/B6A3.git
+<br>
 ERD Link: https://drawsql.app/teams/mtr-brand/diagrams/b6a3
+<br>
 Viva Video Link: https://drive.google.com/drive/folders/14zec2foQcQ7V_-5Vwl4xdbgxTRmnWXwJ?usp=drive_link
 ---
 ## Author
